@@ -20,3 +20,8 @@ plugins:
   - tags:
       tags_file: ./tags.md
   - blog
+
+extra:
+  analytics:
+    provider: google
+    property: G-T58TGH4HLY
