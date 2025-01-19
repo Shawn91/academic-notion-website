@@ -2,14 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://hamsternotion.com/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-19</lastmod>
     </url>
     <url>
          <loc>https://hamsternotion.com/blog/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-19</lastmod>
+    </url>
+    <url>
+         <loc>https://hamsternotion.com/blog/2025/01/19/how-im-using-notion-to-get-my-english-back-a-simple-20-minute-daily-system/</loc>
+         <lastmod>2025-01-19</lastmod>
+    </url>
+    <url>
+         <loc>https://hamsternotion.com/blog/archive/2025/</loc>
+         <lastmod>2025-01-19</lastmod>
     </url>
     <url>
          <loc>https://hamsternotion.com/tags/</loc>
-         <lastmod>2025-01-14</lastmod>
+         <lastmod>2025-01-19</lastmod>
     </url>
 </urlset>
