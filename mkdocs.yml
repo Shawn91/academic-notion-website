@@ -25,6 +25,12 @@ plugins:
       tags_file: ./tags.md
   - blog
 
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - footnotes
+
 extra:
   analytics:
     provider: google
