@@ -1,6 +1,7 @@
 ---
 date:
   created: 2025-01-19
+description: Learn how to use Notion for students' language learning with this practical 20-minute daily system. See how a language student created a simple spaced repetition system in Notion to rebuild English skills. Perfect Notion template for international students and language learners.
 ---
 
 # How I'm Using Notion to Get My English Back: A Simple 20-Minute Daily System

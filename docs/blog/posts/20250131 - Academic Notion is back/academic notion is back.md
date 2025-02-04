@@ -1,6 +1,7 @@
 ---
 date:
   created: 2025-02-01
+description: Academic Notion is back online and fully operational! Import research papers from arXiv, Google Scholar, and Science Direct into your Notion database seamlessly. Update announcement for researchers and academics using our paper management tool.
 ---
 
 # Academic Notion Is Back!

@@ -1,6 +1,7 @@
 ---
 date:
   created: 2025-01-29
+description: Learn how to use Notion for students to track Chinese New Year red envelopes with a fun database system. Perfect Notion template showing how to create rollup formulas and relationship databases. Ideal for students learning database management with real-world examples.
 ---
 
 # Tracking Affection from Relatives During Chinese New Year - Harder Than I Thought
